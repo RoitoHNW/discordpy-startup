@@ -15,8 +15,7 @@ async def on_command_error(ctx, error):
 
 @bot.command()
 async def 借金申請(ctx):
-    await ctx.send('借金申請を確認しました。
-                   "<@!431749113223184384>")
+    await ctx.send('借金申請を確認しました。"<@!431749113223184384>"')
 
 
 bot.run(token)
