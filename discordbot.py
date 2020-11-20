@@ -15,7 +15,7 @@ async def on_command_error(ctx, error):
 
 @bot.command()
 async def 借金申請(ctx):
-    await ctx.send("<@!Roito_HNW[Hunter/Monk]>")
+    await ctx.send("<@!431749113223184384>")
 
 
 bot.run(token)
