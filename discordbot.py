@@ -15,7 +15,7 @@ async def on_command_error(ctx, error):
 
 @bot.command()
 async def 申請(ctx):
-    await ctx.send('pong')
+    await ctx.send('hnw')
 
 
 bot.run(token)
